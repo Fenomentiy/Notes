@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\menu_popup_menu.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\menu\\popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.applicationnotes.app-merged_res-32:/layout_activity_notes_taker.xml.flat",
+        "source": "com.example.applicationnotes.app-main-34:/layout/activity_notes_taker.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_pin_icon.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable\\pin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_ic_plus_icon.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable\\ic_plus_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_pin_icon.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable\\pin_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable-v24_pin_icon.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable-v24\\pin_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\layout_notes_list.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\layout\\notes_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\layout_activity_notes_taker.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\layout\\activity_notes_taker.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-pngs-27:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_bg_white_rounded.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable\\bg_white_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\drawable_ic_save.xml.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-main-34:\\drawable\\ic_save.xml"
+    },
+    {
+        "merged": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\fenom\\.gradle\\daemon\\7.4\\com.example.applicationnotes.app-debug-33:\\mipmap-hdpi\\ic_launcher_round.png"
+    }
+]
